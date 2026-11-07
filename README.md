@@ -19,6 +19,9 @@ RAG、複数の LLM プロバイダの切り替え、scikit-learn を使った�
 </p>
 
 <p align="center">
+  <a href="https://atsunorinagaya.github.io/">
+    <img src="https://img.shields.io/badge/Website-atsunorinagaya.github.io-23221f?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website: atsunorinagaya.github.io" />
+  </a>
   <a href="https://www.linkedin.com/in/%E7%AF%A4%E5%85%B8-%E9%95%B7%E5%B1%8B-877a9b354/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Atsunori%20Nagaya-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
   </a>
@@ -109,6 +112,23 @@ RAG、複数の LLM プロバイダの切り替え、scikit-learn を使った�
         <img src="https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white" alt="uv" />
       </p>
       <p align="center">MIT License</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center"><a href="https://github.com/AtsunoriNagaya/AtsunoriNagaya.github.io">AtsunoriNagaya.github.io</a></h3>
+      <p align="center">
+        My personal site, built with the SmartHR Design System's React library (smarthr-ui) and tuned for accessibility: skip link, proper heading structure, Japanese / English switching, and zero axe violations enforced in CI with Playwright. Deployed to GitHub Pages through GitHub Actions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/smarthr--ui-555555?style=flat-square" alt="smarthr-ui" />
+        <img src="https://img.shields.io/badge/Playwright%20%2B%20axe-2EAD33?style=flat-square" alt="Playwright and axe" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+      </p>
+      <p align="center"><a href="https://atsunorinagaya.github.io/">Visit the site</a></p>
     </td>
   </tr>
 </table>
